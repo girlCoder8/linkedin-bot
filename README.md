@@ -1,6 +1,6 @@
 # Mortgage_Calculator
 
-Author: Benjamin O. Tayo
+Author: Barb Gordon
 
 Date: 7/31/2019
 
